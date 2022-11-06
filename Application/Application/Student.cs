@@ -8,5 +8,6 @@ namespace Application
 {
     internal class Student
     {
+        string name;
     }
 }
