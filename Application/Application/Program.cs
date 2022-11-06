@@ -8,5 +8,4 @@ int add(int a, int b)
     return a + b+40;
 }
 
-add(7, 5);
-Console.WriteLine();
+printFunction();
