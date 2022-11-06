@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿void printFunction()
+{
+    Console.WriteLine("This function prints Hello!");
+}
