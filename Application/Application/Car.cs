@@ -14,7 +14,7 @@ namespace Application
         public string Brand { get => brand; set => brand = value; }
         public string Price { get => price; set => price = value; }
 
-        void printCar()
+       public void printCar()
         {
             Console.WriteLine(brand);
             Console.WriteLine(price);
