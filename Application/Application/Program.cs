@@ -1,4 +1,6 @@
-﻿void printFunction()
+﻿using Application;
+
+void printFunction()
 {
     Console.WriteLine("This function prints Hello!");
 }
@@ -9,3 +11,6 @@ int add(int a, int b)
 }
 
 printFunction();
+
+Car car = new Car();
+    car.printCar();
